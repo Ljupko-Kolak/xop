@@ -1,0 +1,80 @@
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\OtpusnoPismo.exe.config
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\OtpusnoPismo.exe
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\OtpusnoPismo.pdb
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csprojAssemblyReference.cache
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\MainWindow.g.cs
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\App.g.cs
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo_MarkupCompile.cache
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo_MarkupCompile.lref
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\MainWindow.baml
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.g.resources
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.Properties.Resources.resources
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.GenerateResource.cache
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.CoreCompileInputs.cache
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.CopyComplete
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.exe
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.pdb
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Adrijana Kovač.png
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Baza.xml
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\bolnica_logo.png
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Dževada Kolenda.png
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Petar Lekić.png
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Vlasta Ivanović-Kaurin.png
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Zoran Pocrnja.png
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Željko Martinović.png
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo_Content.g.cs
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Adrijana Kovač.png
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Baza.xml
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\bolnica_logo.png
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Dževada Kolenda.png
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Petar Lekić.png
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Vlasta Ivanović-Kaurin.png
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Zoran Pocrnja.png
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Željko Martinović.png
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\OtpusnoPismo.exe.config
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\OtpusnoPismo.exe
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\bin\Debug\OtpusnoPismo.pdb
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csprojAssemblyReference.cache
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\MainWindow.g.cs
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\App.g.cs
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo_Content.g.cs
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo_MarkupCompile.cache
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo_MarkupCompile.lref
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\MainWindow.baml
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.g.resources
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.Properties.Resources.resources
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.GenerateResource.cache
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.CoreCompileInputs.cache
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.CopyComplete
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.exe
+C:\Users\Ljupko\Desktop\Program za Otpusnice\Source Code\OtpusnoPismo\OtpusnoPismo\obj\Debug\OtpusnoPismo.pdb
+C:\Users\Ljupko\source\repos\OtpusnoPismo\OtpusnoPismo\bin\Debug\Resursi\Dalibor Kolak.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Adrijana Kovač.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Baza.xml
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\bolnica_logo.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Dalibor Kolak.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Dževada Kolenda.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Marko Androšević.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Mladen Čuturić.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Petar Lekić.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Vlasta Ivanović-Kaurin.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Zoran Pocrnja.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Zvonimir Stipac.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\Resursi\Željko Martinović.png
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\OtpusnoPismo.exe.config
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\OtpusnoPismo.exe
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\bin\Debug\OtpusnoPismo.pdb
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.csprojAssemblyReference.cache
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\MainWindow.g.cs
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\App.g.cs
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo_Content.g.cs
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo_MarkupCompile.cache
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo_MarkupCompile.lref
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\MainWindow.baml
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.g.resources
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.Properties.Resources.resources
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.GenerateResource.cache
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.CoreCompileInputs.cache
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.csproj.CopyComplete
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.exe
+C:\Users\Ljupko\Documents\GitRepos\xop\OtpusnoPismo\obj\Debug\OtpusnoPismo.pdb
