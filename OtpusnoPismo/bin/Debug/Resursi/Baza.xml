@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <odjeli>
-    <odjel naziv="Ginekologija" broj="tel. 030/708-553" sef="Zoran Pocrnja" titula1 ="Prim.dr.Zoran Pocrnja" titula2="specijalist ginekologije i porodništva">
+    <odjel naziv="Ginekologija" broj="tel. 030/708-553" sef="Zvonimir Stipac" titula1="dr.Zvonimir Stipac" titula2="specijalist ginekologije i porodništva">
       <lijecnici>
-		    <lijecnik titula1="Prim.dr.Aida Idrizbegović" titula2="specijalist ginekologije i porodništva">Aida Idrizbegović</lijecnik>
+        <lijecnik titula1="Prim.dr.Aida Idrizbegović" titula2="specijalist ginekologije i porodništva">Aida Idrizbegović</lijecnik>
         <lijecnik titula1="dr.Inga Bodul-Pranjković" titula2="specijalist ginekologije i porodništva">Inga Bodul-Pranjković</lijecnik>
         <lijecnik titula1="dr.Julijana Laštro-Taraba" titula2="specijalist ginekologije i porodništva">Julijana Laštro-Taraba</lijecnik>
         <lijecnik titula1="Prim.dr.Zoran Pocrnja" titula2="specijalist ginekologije i porodništva">Zoran Pocrnja</lijecnik>
@@ -25,7 +25,21 @@
         <lijecnik titula1="dr.Dalibor Kolak" titula2="specijalist opće kirurgije">Dalibor Kolak</lijecnik>
         <lijecnik titula1="Prim.dr.Jovan Rajkov" titula2="specijalist opće i subspecijalist abdominalne kirurgije">Jovan Rajkov</lijecnik>
         <lijecnik titula1="dr.Mario Gučanin-Gazibarić" titula2="specijalist opće kirurgije">Mario Gučanin-Gazibarić</lijecnik>
-        <lijecnik titula1="dr.Mladen Čuturić" titula2="specijalist otorinolaringologije">Mladen Čuturić</lijecnik>
+        <lijecnik titula1="Prim.dr.Velimir Valjan" titula2="specijalist opće i subspecijalist abdominalne kirurgije">Velimir Valjan</lijecnik>
+        <lijecnik titula1="Prim.dr.sci.Željko Martinović" titula2="specijalist opće i subspecijalist abdominalne kirurgije">Željko Martinović</lijecnik>
+      </lijecnici>
+    </odjel>
+    <odjel naziv="Minimalno invazivna kirurgija" broj="tel. 030/708-600" sef="Dalibor Kolak" titula1="dr.Dalibor Kolak" titula2="specijalist opće kirurgije">
+      <lijecnici>
+        <lijecnik titula1="dr.Bogomir Barbić" titula2="specijalist opće kirurgije">Bogomir Barbić</lijecnik>
+        <lijecnik titula1="Prim.dr.Cvita Martinović" titula2="specijalist interne medicine">Cvita Martinović</lijecnik>
+        <lijecnik titula1="dr.Dalibor Kolak" titula2="specijalist opće kirurgije">Dalibor Kolak</lijecnik>
+        <lijecnik titula1="dr.Darko Lovrinović" titula2="specijalist interne medicine">Darko Lovrinović</lijecnik>
+        <lijecnik titula1="Prim.dr.Dževada Kolenda" titula2="specijalist interne medicine kardiolog">Dževada Kolenda</lijecnik>
+        <lijecnik titula1="Prim.dr.Jovan Rajkov" titula2="specijalist opće i subspecijalist abdominalne kirurgije">Jovan Rajkov</lijecnik>
+        <lijecnik titula1="dr.Mario Gučanin-Gazibarić" titula2="specijalist opće kirurgije">Mario Gučanin-Gazibarić</lijecnik>
+        <lijecnik titula1="dr.Mirjana Mađar-Zec" titula2="specijalist interne medicine">Mirjana Mađar-Zec</lijecnik>
+        <lijecnik titula1="Prim.dr.Tihana Valjan" titula2="specijalist interne medicine">Tihana Valjan</lijecnik>
         <lijecnik titula1="Prim.dr.Velimir Valjan" titula2="specijalist opće i subspecijalist abdominalne kirurgije">Velimir Valjan</lijecnik>
         <lijecnik titula1="Prim.dr.sci.Željko Martinović" titula2="specijalist opće i subspecijalist abdominalne kirurgije">Željko Martinović</lijecnik>
       </lijecnici>
@@ -37,11 +51,15 @@
         <lijecnik titula1="Prim.dr.Vlasta Ivanović-Kaurin" titula2="specijalist neuropsihijatrije">Vlasta Ivanović-Kaurin</lijecnik>
       </lijecnici>
     </odjel>
-    <odjel naziv="Odjel anestezije i intenzivnog liječenja" broj="tel. 030/708-563" sef="Petar Lekić" titula1="Prim.dr.Petar Lekić" titula2="specijalist anesteziologije, reanimatologije i intenzivnog liječenja">
+    <odjel naziv="Odjel anestezije i intenzivnog liječenja" broj="tel. 030/708-563" sef="Marko Androšević" titula1="dr.Marko Androšević" titula2="specijalist anesteziologije, reanimatologije i intenzivnog liječenja">
       <lijecnici>
         <lijecnik titula1="dr.Marko Androšević" titula2="specijalist anesteziologije, reanimatologije i intenzivnog liječenja">Marko Androšević</lijecnik>
-        <lijecnik titula1="Prim.dr.Petar Lekić" titula2="specijalist anesteziologije, reanimatologije i intenzivnog liječenja">Petar Lekić</lijecnik>
         <lijecnik titula1="dr.Vesna Majher" titula2="specijalist anesteziologije, reanimatologije i intenzivnog liječenja">Vesna Majher</lijecnik>
+      </lijecnici>
+    </odjel>
+    <odjel naziv="Odjel otorinolaringologije i kirurgije glave i vrata" broj="tel. 030/708-601" sef="Mladen Čuturić" titula1="dr.Mladen Čuturić" titula2="specijalist otorinolaringologije">
+      <lijecnici>
+        <lijecnik titula1="dr.Mladen Čuturić" titula2="specijalist otorinolaringologije">Mladen Čuturić</lijecnik>
       </lijecnici>
     </odjel>
     <odjel naziv="Pedijatrija" broj="tel. 030/708-555" sef="Adrijana Kovač" titula1="dr.Adrijana Kovač" titula2="specijalist pedijatar">
@@ -52,18 +70,11 @@
       </lijecnici>
     </odjel>
   </odjeli>
-  <odjelnilijecnici>
-  </odjelnilijecnici>
-  <imena>
-  </imena>
-  <prezimena>
-  </prezimena>
-  <gradovi>
-  </gradovi>
-  <ulice>
-  </ulice>
-  <dijagnoze>
-  </dijagnoze>
-  <zahvati>
-  </zahvati>
+  <odjelnilijecnici></odjelnilijecnici>
+  <imena></imena>
+  <prezimena></prezimena>
+  <gradovi></gradovi>
+  <ulice></ulice>
+  <dijagnoze></dijagnoze>
+  <zahvati></zahvati>
 </root>
