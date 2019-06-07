@@ -1419,7 +1419,8 @@ namespace Obrazac_za_Otpusnice
                 cbxOdjel.SelectedItem.ToString() != "Ginekologija" &&
                 cbxOdjel.SelectedItem.ToString() != "Kirurgija" &&
                 cbxOdjel.SelectedItem.ToString() != "Minimalno invazivna kirurgija" &&
-                cbxOdjel.SelectedItem.ToString() != "Odjel anestezije i intenzivnog liječenja"
+                cbxOdjel.SelectedItem.ToString() != "Odjel anestezije i intenzivnog liječenja" &&
+                cbxOdjel.SelectedItem.ToString() != "Odjel otorinolaringologije i kirurgije glave i vrata"
                 )
             {
                 grpOperacije.Visibility = Visibility.Hidden;
